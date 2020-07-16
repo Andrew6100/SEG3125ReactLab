@@ -1,0 +1,5 @@
+.datepicker {
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    width: 100%;
+}
